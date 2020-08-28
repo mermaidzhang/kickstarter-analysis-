@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarter Analysis with Excel
 
 ## Overview of Project
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. In this study, I'll visualize campaign outcomes based on their launch dates and their funding goals. 
